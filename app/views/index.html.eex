@@ -4,10 +4,9 @@
   <title></title>
 </head>
 <body>
-  <h3>Welcome to Dynamo!</h3>
-  <%= "hello" %>
+  <h3>This is shinjuku.ex</h3>
   <ul>
-    <li>hi</li>
+    <li>Hello, me</li>
   </ul>
   <ol>
     <li>Change this view at <code>app/views/index.html.eex</code></li>
