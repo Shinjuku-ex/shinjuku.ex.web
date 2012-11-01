@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <title></title>
+</head>
+<body>
+  <h3>Welcome to Dynamo!</h3>
+  <%= "hello" %>
+  <ul>
+    <li>hi</li>
+  </ul>
+  <ol>
+    <li>Change this view at <code>app/views/index.html.eex</code></li>
+    <li>Add new routes at <code>app/routers/application_router.ex</code></li>
+    <li>Deploy to production with <code>MIX_ENV=prod mix do compile, server</li>
+  </ol>
+</body>
+</html>
